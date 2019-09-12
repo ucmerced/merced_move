@@ -17,3 +17,4 @@
 
 module load anaconda3
 python -c 'import socket; print(socket.gethostname())
+sleep 20
